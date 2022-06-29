@@ -1,1 +1,1 @@
-https://redis-slides.netlify.app/1
+https://react-18-rsc.netlify.app/1
